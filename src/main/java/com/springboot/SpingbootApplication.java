@@ -12,5 +12,6 @@ public class SpingbootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpingbootApplication.class, args);
 		System.out.println("我不好n");
+		System.out.println("你好");
 	}
 }
