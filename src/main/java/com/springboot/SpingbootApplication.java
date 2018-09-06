@@ -13,5 +13,6 @@ public class SpingbootApplication {
 		SpringApplication.run(SpingbootApplication.class, args);
 		System.out.println("我不好n");
 		System.out.println("你好");
+		System.out.println("hot_fix");
 	}
 }
